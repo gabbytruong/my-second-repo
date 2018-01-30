@@ -1,4 +1,5 @@
 print ("Hi im gabby")
+print ("my favorite food is ice cream")
 print("Hi im caroline")
 print('march')
 print('adding something else')
